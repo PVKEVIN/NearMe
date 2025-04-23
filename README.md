@@ -30,9 +30,9 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-```
-map.html 
 
+map.html 
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,9 +52,9 @@ map.html
     </map>
 </body>
 </html>
-
+```
 avadi.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -79,9 +79,9 @@ avadi.html
     </p>
 </body>
 </html>
-
+```
 poonamalle.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -104,9 +104,9 @@ poonamalle.html
     </p>
 </body>
 </html>
-
+```
 veppampattu.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,9 +129,9 @@ veppampattu.html
     </p>
 </body>
 </html>
-
+```
 murugappa.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
